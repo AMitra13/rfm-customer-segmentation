@@ -1,6 +1,6 @@
-# 📊 Customer Segmentation using RFM Analysis
+# Customer Segmentation using RFM Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes customer purchasing behavior using **RFM (Recency, Frequency, Monetary) segmentation** to identify high-value customers, improve retention strategies, and drive revenue growth.
 
@@ -8,7 +8,7 @@ The analysis is supported by an interactive **Power BI dashboard** and Python-ba
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 Businesses often struggle to:
 
@@ -20,7 +20,7 @@ This project addresses these challenges by segmenting customers based on behavio
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * **Python** (Pandas, NumPy)
 * **Jupyter Notebook**
@@ -29,7 +29,7 @@ This project addresses these challenges by segmenting customers based on behavio
 
 ---
 
-## 📊 Methodology
+## Methodology
 
 ### 1. Data Cleaning & Preparation
 
@@ -61,7 +61,7 @@ Customers were grouped into segments such as:
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 * **Champions contribute ~72% of total revenue**, making them the most critical segment
 * Revenue shows strong **seasonality with a peak in November**
@@ -71,13 +71,13 @@ Customers were grouped into segments such as:
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 *(Add your dashboard screenshot here)*
 
 ---
 
-## 🚀 Business Recommendations
+## Business Recommendations
 
 * Prioritize retention strategies for **Champions**
 * Introduce **post-purchase engagement campaigns**
@@ -87,7 +87,7 @@ Customers were grouped into segments such as:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 rfm-customer-segmentation/
 │
@@ -104,13 +104,13 @@ rfm-customer-segmentation/
 
 ---
 
-## 💡 Conclusion
+## Conclusion
 
 This project demonstrates how data-driven segmentation can significantly improve customer retention, revenue optimization, and strategic decision-making.
 
 ---
 
-## 🔗 Author
+## Author
 
 **Ayshi Mitra**
 Aspiring Data Analyst

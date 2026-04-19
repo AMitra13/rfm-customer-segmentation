@@ -89,6 +89,7 @@ Customers were grouped into segments such as:
 
 ## Project Structure
 
+```
 rfm-customer-segmentation/
 │
 ├── notebook/
@@ -101,8 +102,7 @@ rfm-customer-segmentation/
 │   └── dashboard_preview.png
 │
 └── README.md
-
----
+```
 
 ## Conclusion
 

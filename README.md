@@ -20,6 +20,20 @@ This project addresses these challenges by segmenting customers based on behavio
 
 ---
 
+## Dataset
+
+This project uses the **Online Retail dataset** from the UCI Machine Learning Repository, which contains transactional data for a UK-based online retail store.
+
+- Source: [UCI Machine Learning Repository – Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
+- Time Period: 2010–2011
+- Features: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
+
+> Note: The original dataset is not included in this repository due to GitHub file size limitations. A cleaned and processed dataset is available in the `output/` folder for analysis and dashboarding.
+
+> Data preprocessing includes handling missing values, removing cancellations/returns, and feature engineering for customer and campaign analysis.
+
+---
+
 ## Tools & Technologies
 
 * **Python** (Pandas, NumPy)

@@ -95,14 +95,13 @@ Customers were grouped into segments such as:
 ```
 rfm-customer-segmentation/
 │
-├── notebook/
-│   └── rfm_customer_segmentation.ipynb
+├── rfm_customer_segmentation.ipynb    # notebook
 │
-├── dashboard/
-│   └── customer_analytics_dashboard.pdf
+├── customer_analytics_dashboard.pdf   # dashboard
 │
-├── images/
-│   └── dashboard_preview.png
+├── dashboard_preview.png
+│
+|── requirements.txt
 │
 └── README.md
 ```

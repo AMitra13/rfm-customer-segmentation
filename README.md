@@ -87,9 +87,7 @@ Customers were grouped into segments such as:
 
 ## Dashboard Preview
 
-Images/customer_analytics_dashboard_preview.png
-
-
+![Customer Analytics Dashboard](Images/customer_analytics_dashboard_preview.png)
 
 ---
 

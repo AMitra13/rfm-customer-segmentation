@@ -87,8 +87,7 @@ Customers were grouped into segments such as:
 
 ## Dashboard Preview
 
-<img width="1870" height="934" alt="customer segmentation and revenue analysis" src="https://github.com/user-attachments/assets/a3181e17-61e2-435b-a805-e181fcd8235c" />
-<img width="1860" height="911" alt="CLV and Retention Analysis" src="https://github.com/user-attachments/assets/f57b879e-ee9d-45f9-a5fb-30cf1ce2b79a" />
+Images/customer_analytics_dashboard_preview.png
 
 
 

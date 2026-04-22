@@ -109,8 +109,9 @@ rfm-customer-segmentation/
 ├── rfm_customer_segmentation.ipynb    # notebook
 │
 ├── customer_analytics_dashboard.pdf   # dashboard
-│
-├── dashboard_preview.png
+|
+├── Images/
+│   ├── customer_analytics_dashboard_preview.png
 │
 |── requirements.txt
 │
